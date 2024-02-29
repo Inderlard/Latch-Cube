@@ -2,7 +2,7 @@
 
 Cubo de rubick Latch, un cubo de rubick 3x3x3 con unas aristas capaces de bloquear el giro en ciertas direcciones
 
-![]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/Inderlard/Latch-Cube/blob/main/Media/Render.png)){width='100px'}
+![](https://github.com/Inderlard/Latch-Cube/blob/main/Media/Render.png?raw=true)
 
 ## Material
 
